@@ -1,11 +1,10 @@
  RENCANA KONTEN WPU
  
- - JavaScript
- - Php FrameWork
-  * ES6
+
  - Interview
  - Vlog
  - Ngemhek Nasa Yo Lekkkk
+ - Tutorial jadi orang kayaa
  
  
 
